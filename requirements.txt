@@ -1,3 +1,10 @@
 optuna
 joblib
 pathlib2
+tensorflow
+scikit-learn
+matplolib
+pandas
+numpy
+gensim
+seaborn
